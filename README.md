@@ -1,4 +1,4 @@
-# Network Scanner
+# Port-Scanner.py
 
 This repository contains a Python script for a simple network scanner. The script allows you to scan one or multiple IP addresses for open ports.
 
